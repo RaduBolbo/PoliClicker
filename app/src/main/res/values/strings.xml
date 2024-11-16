@@ -1,0 +1,5 @@
+<resources>
+    <!-- Sintaxa: <string name="nume_String">text_string</string> -->
+    <string name="app_name">PoliClicker</string>
+    <string name="clicked">+1</string> <!--variabila de incrementare. folosita pentru AFISARE TOAST -->
+</resources>
